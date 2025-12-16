@@ -55,6 +55,12 @@ const registerBackground = {
   ],
 }
 
+const SOCIAL_LINKS = {
+  github: "https://github.com/halolight/halolight-react",
+  google: "https://halolight-docs.h7ml.cn",
+  wechat: "https://github.com/halolight",
+}
+
 export default function RegisterPage() {
   const navigate = useNavigate()
   const { register, isLoading, error, clearError } = useAuthStore()
@@ -106,10 +112,6 @@ export default function RegisterPage() {
     } catch {
       // 错误已在 store 中处理
     }
-  }
-
-  const handleSocialLogin = (provider: string) => {
-    console.log(`使用 ${provider} 注册`)
   }
 
   React.useEffect(() => {
@@ -230,13 +232,14 @@ export default function RegisterPage() {
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 0.5 + index * 0.1 }}
                   >
-                    <Button
-                      variant="outline"
-                      className="w-full h-11 sm:h-12 border-border/50 hover:border-primary/50 hover:bg-primary/5 transition-all duration-300 group"
-                      onClick={() => handleSocialLogin(provider.name)}
+                    <a
+                      href={SOCIAL_LINKS[provider.name as keyof typeof SOCIAL_LINKS]}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center justify-center w-full h-11 sm:h-12 border border-border/50 hover:border-primary/50 hover:bg-primary/5 transition-all duration-300 group rounded-md"
                     >
                       <provider.icon className="h-5 w-5 group-hover:scale-110 transition-transform" />
-                    </Button>
+                    </a>
                   </motion.div>
                 ))}
               </div>
